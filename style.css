@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    text-decoration: none;
+    margin: 40px;
+    border-bottom: black solid 5px;
+    color: black;
+    padding-bottom: 3px;
+}
+nav{
+    margin-top: 15px;
+}
+h1{
+    font-size: 24;
+}
+main{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    padding: 5px;
+}
+footer p{
+    background-color: white;
+    padding: 3px;
+    margin-left: 5px;
+}
+header img{
+    margin: 0px;
+    border: none;
+}
+img{
+    margin-right:50px;
+    border-left: dotted black 12px;
+}
+.qq{
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
